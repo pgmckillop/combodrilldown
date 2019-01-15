@@ -3,4 +3,4 @@ Progressively getting data values in combos dependent on the previous combo sele
 
 This process is sometimes referred to as cascading through combo controls.
 
-The project uses a text filr as a 'universal' data source to illustrate the techniques used.
+The project uses a text file, carsdata.txt, as a 'universal' data source to illustrate the techniques used.
